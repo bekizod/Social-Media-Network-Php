@@ -1,0 +1,6 @@
+body{
+    background-image: url("assets/sb.jpg");
+        background-position: cover;
+        backdrop-filter: blur(12px);
+        background-size: contain;
+}
